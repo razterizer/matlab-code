@@ -1,0 +1,1 @@
+function [GC,dC,GC0]=mod_varcap(v1,v2,i12
